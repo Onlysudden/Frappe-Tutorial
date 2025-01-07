@@ -1,5 +1,7 @@
 # Completed tutorial on [Frappe Framework](https://docs.frappe.io/framework/user/en/introduction)
 
+You can use commands from the tutorial in the useful_commands.txt
+
 ### Library Managment
 
 :Library Management System
