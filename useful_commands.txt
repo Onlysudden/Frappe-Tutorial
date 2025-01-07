@@ -1,0 +1,19 @@
+bench init <your_folder_name> - Create Frappe package
+bench start - Launch site
+bench find . - Search Frappe package
+bench --help - List of all site commands
+
+bench new-app <your_app_name> - Create app
+bench new-site <your_site_name> - Create site
+
+bench --site <your_site_name> add-to-hosts - Add adress for localhost
+bench --site <your_site_name> install-app app_name - Install app on site
+bench --site <your_site_name> list-apps - Show apps list
+
+bench --site <your_site_name> console - Open Python console
+bench --site <your_site_name> mariadb - Open MariaDB monitor
+bench --site <your_site_name> backup - Create backup for your site
+bench --site <your_site_name> clear cache - Clear site cache
+
+bench set-config -g developer_mode true - Enable developer mode
+bench --site <your_site_name> set-config server_script_enabled true - Enable server side scripts

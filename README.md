@@ -1,10 +1,14 @@
+# Completed tutorial on [Frappe Framework](https://docs.frappe.io/framework/user/en/introduction)
+
 ### Library Managment
 
 :Library Management System
 
 ### Installation
 
-You can install this app using the [bench](https://github.com/frappe/bench) CLI:
+[Install Frappe Framework](https://docs.frappe.io/framework/v14/user/en/installation) Frappe Framework and all necessary dependencies
+
+Then you can install this app using the [bench](https://github.com/frappe/bench) CLI:
 
 ```bash
 cd $PATH_TO_YOUR_BENCH
