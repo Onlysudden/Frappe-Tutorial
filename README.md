@@ -6,7 +6,7 @@
 
 ### Installation
 
-[Install Frappe Framework](https://docs.frappe.io/framework/v14/user/en/installation) Frappe Framework and all necessary dependencies
+[Install Frappe Framework](https://docs.frappe.io/framework/v14/user/en/installation) and all necessary dependencies
 
 Then you can install this app using the [bench](https://github.com/frappe/bench) CLI:
 
